@@ -31,13 +31,13 @@ Track your progress in the Coding Ninjas DSA course:
 
 - **Current Module**: Learning Graphs and Algorithms realted to graphs.
 - **Upcoming Modules**: Finish the remaining subject, which is Graphs, and engage in LeetCode practice.
-  Profile: [leetcode/vishalghige43](https://leetcode.com/vishalghige43/)
+ - Profile: [leetcode/vishalghige43](https://leetcode.com/vishalghige43/)
 
 ## Resources
 
 List the Coding Ninjas course materials and any external resources that have been helpful in your DSA learning journey. Provide links where applicable.
 
 - [Coding Ninjas DSA Course](https://www.codingninjas.com/courses/c-plus-plus-data-structures-and-algorithms)
--[yt-take U forward](https://www.youtube.com/@takeUforward)
+- [yt-take U forward](https://www.youtube.com/@takeUforward)
 - [GreekForGreek](https://www.geeksforgeeks.org/data-structures/)
 - [striver/sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/#)
