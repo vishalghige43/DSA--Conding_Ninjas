@@ -30,8 +30,7 @@ Describe how you've structured your repository to align with the course content:
 Track your progress in the Coding Ninjas DSA course:
 
 - **Current Module**: Learning Graphs and Algorithms realted to graphs.
-- **Upcoming Modules**: Finish the remaining subject, which is Graphs, and engage in LeetCode practice.
- - Profile: [leetcode/vishalghige43](https://leetcode.com/vishalghige43/)
+- **Upcoming Modules**: Finish the remaining subject, which is Graphs, and engage in LeetCode practice.             Profile: [leetcode/vishalghige43](https://leetcode.com/vishalghige43/)
 
 ## Resources
 
