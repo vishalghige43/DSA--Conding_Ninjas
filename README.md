@@ -22,8 +22,9 @@ Furthermore, Teaching Assistants are readily available to assist you. They are t
 ## Repository Structure
 
 Describe how you've structured your repository to align with the course content:
-- `CN<Topic_name>/`:  contains code implementations of various data structures.
+- `CN<Topic_name>/`:  Contains code implementations of various data structures.
 - `CN<Topic_name>-Assingments/`: Contains code and assignments related to the topic.
+- `#Leetcode/`: Contains the practice questions .
 
 ## Progress
 
